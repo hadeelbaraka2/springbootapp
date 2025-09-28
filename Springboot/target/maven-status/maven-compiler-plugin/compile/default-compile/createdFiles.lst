@@ -1,0 +1,4 @@
+com\baraka\Springboot\Repositories\StudentRepository.class
+com\baraka\Springboot\models\Student.class
+com\baraka\Springboot\controller\Controller.class
+com\baraka\Springboot\SpringbootappApplication.class
